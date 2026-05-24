@@ -17,6 +17,26 @@ function Home() {
           Narrative Through Controlled Disruption of Language Models
         </h1>
 
+        <div className="authors">
+          <p className="author-list">
+            Olga Vechtomova<sup>1</sup>, Greg French<sup>1</sup>, Xavier Schneider<sup>1</sup>, Olivier Poulin<sup>1</sup>, Jeff Bos<sup>2</sup>
+          </p>
+          <p className="affiliations">
+            <sup>1</sup>University of Waterloo, Canada &nbsp;·&nbsp; <sup>2</sup>WordSynth Inc.
+          </p>
+          <p className="venue">
+            Accepted as a long paper at the{' '}
+            <a
+              href="https://computationalcreativity.net/iccc26/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              International Conference on Computational Creativity (ICCC'26)
+            </a>
+            .
+          </p>
+        </div>
+
         <div className="abstract">
           <h2>Abstract</h2>
           <p>
